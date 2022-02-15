@@ -1,0 +1,9 @@
+name: itech_eks
+title: EKS Profile
+maintainer: iMagineers
+summary: EKS Compliance Profile
+version: 0.1.0
+inputs:
+- name: cluster_name
+  description: EKS Cluster name
+  type: string
